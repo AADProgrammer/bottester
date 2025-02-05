@@ -15,8 +15,8 @@
     define("CHANNEL_USERNAME", "modern_channel_2025");
     define("CHANNEL_ID", "-1002268287172");
 
-    //define("BOT_APIKEY_MODERNBOT", "7991119227:AAGSYkj98EdXzEZo9jD6DlbwvZeSMu4efO4");
-    define("BOT_APIKEY", "7571954602:AAEZhMdJ37J5rQsOi5DfacfQzOG9GIQEzWc");
+    
+    define("BOT_APIKEY", "APITOKEN");
     define("BOT_NAME", "CyberZone");
     define("BOT_FOLDER", "CyberZone/");
     define("BOT_VERSION", "1.0");
